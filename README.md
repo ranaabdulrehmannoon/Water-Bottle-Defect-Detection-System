@@ -58,7 +58,7 @@ The Water Bottle Defect Detection System is an automated quality control solutio
 
 - Python 3	(Core programming language)
 - OpenCV	(Advanced computer vision tasks)
-- TensorFlow / Keras	(Deep learning model development)
+- TensorFlow	(Deep learning model development)
 - Pillow (PIL)	(Image processing)
 - NumPy	(Numerical computing)
 - Matplotlib	(Data visualization)
