@@ -34,7 +34,7 @@ MIN_BOTTLE_AREA = 3000  # Reduced minimum area for bottle detection
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Thinkpadtesla@79',  # Your password here
+    'password': 'your password',  # Your password here
     'database': 'bottle_defect_db',
     'auth_plugin': 'mysql_native_password'  # Added for MySQL 8
 }
