@@ -1,5 +1,5 @@
-Water Bottle Defect Detection System
-📌 Project Overview
+#Water Bottle Defect Detection System
+##📌 Project Overview
 
 The Water Bottle Defect Detection System is an automated quality control solution that leverages computer vision and deep learning to identify defects in water bottles during the manufacturing process. The system performs real-time inspection using a mobile phone camera as a live video source and ensures that only defect-free bottles proceed to packaging, thereby improving product quality and operational efficiency.
 
