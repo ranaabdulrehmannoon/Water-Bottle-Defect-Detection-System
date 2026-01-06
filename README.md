@@ -5,7 +5,7 @@ The Water Bottle Defect Detection System is an automated quality control solutio
 
 ## 🎯 Objectives
 
--Automate water bottle quality inspection
+- Automate water bottle quality inspection
 
 Detect water level and bottle shape defects accurately
 
